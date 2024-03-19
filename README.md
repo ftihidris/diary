@@ -4,9 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+University Assignment
 
-A few resources to get you started if this is your first Flutter project:
+Improving an existing diary mobile application to enhance its usability, functionality, and user experience. The goal is to apply theoretical knowledge and practical skills in mobile app development to identify areas for improvement and implement enhancements that address user needs and preferences.
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
